@@ -4,7 +4,8 @@ import CrudApp from "./components/CrudApp";
 function App() {
   return (
     <>
-      <h1>ejercicios con React</h1>
+      <h1>Ejercicios con React</h1>
+      <hr />
       <CrudApp />
     </>
   );
